@@ -1,5 +1,5 @@
 
-# Fluxon-NIE-BootCamp
+# 
 
 This repository contains a full-stack app with a React frontend, Node.js and Express.js backend, and SQLite database. This README provides instructions for setting up, running, and extending the project.
 
